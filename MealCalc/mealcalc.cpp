@@ -9,7 +9,7 @@
 
 // Constants
 // -------------------------------------------------------------
-const float SALES_TAX_RATE = 0.065;
+const float SALES_TAX_RATE = 0.08;
 
 int main() {
 
