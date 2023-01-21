@@ -1,0 +1,3 @@
+/Users/calebnewman/Documents/COP2006/Soldier Lab/cmake-build-debug/CMakeFiles/Soldier_Lab.dir
+/Users/calebnewman/Documents/COP2006/Soldier Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/calebnewman/Documents/COP2006/Soldier Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
